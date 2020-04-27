@@ -1,0 +1,58 @@
+body{
+	background-color: rgba(180,180,260,0.9);
+}
+
+
+#top{
+    padding:  5px 5px 30px;
+    background-color: white;
+    border-radius: 45px;
+    height: 40px;
+    color: black;
+  
+}
+
+#head{
+    display: flex;
+    padding-left: 10px;
+
+}
+
+li{
+    display: inline;
+    color: black;
+    padding: 10px 20px;
+
+}
+.form{
+	padding: 0px 250px
+}
+#sub{
+	display: inline;
+}
+
+#display{
+    display: inline;
+}
+.img{
+    padding:5px;
+    margin: 1px;
+}
+h2{
+	text-align: center;
+	color: blue;
+}
+h4{
+	color: blue;
+}
+
+
+
+#footer {
+    background-color:rgba(150,150,270,0.5);
+    color:blue;
+    clear:both;
+    text-align:center;
+   padding:10px;
+
+}
